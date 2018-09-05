@@ -14,3 +14,5 @@
 |09/03/2018|ERDs, cont'd|3|
 |09/03/2018|Tomcat Security Realm Research|1|
 |09/03/2018|Wireframes started|.5|
+|09/04/2018|Indie project repo set-up|1|
+|09/04/2018|Wireframes cont'd|1|
