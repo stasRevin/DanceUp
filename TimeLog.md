@@ -16,3 +16,6 @@
 |09/03/2018|Wireframes started|.5|
 |09/04/2018|Indie project repo set-up|1|
 |09/04/2018|Wireframes cont'd|1|
+|09/06/2018|Wireframes cont'd|1|
+|09/06/2018|Week 2 videos|.5|
+|09/062018|Lambda Calculus Research for Pro Dev Activity|1.5|
