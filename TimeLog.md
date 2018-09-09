@@ -18,4 +18,10 @@
 |09/04/2018|Wireframes cont'd|1|
 |09/06/2018|Wireframes cont'd|1|
 |09/06/2018|Week 2 videos|.5|
-|09/062018|Lambda Calculus Research for Pro Dev Activity|1.5|
+|09/06/2018|Lambda Calculus Research for Pro Dev Activity|1.5|
+|09/07/2018|Watched week 2 videos|.5|
+|09/07/2018|Week 2 Activities with log4j |.5|
+|09/08/2018|Week 2 videos |1|
+|09/08/2018|Week 2 reading (jUnit) |2|
+|09/08/2018|Excercise 2 puzzle |1|
+|09/09/2018|Exercise 2 exception testing. How do you test IOException that comes after FileNotFoundException?|2|
