@@ -16,7 +16,12 @@
 |09/03/2018|Wireframes started|.5|
 |09/04/2018|Indie project repo set-up|1|
 |09/04/2018|Wireframes cont'd|1|
-|09/05/2018|Watched Videos week 2 |.5|
-|09/05/2018|Set up student repo |.5|
-|09/05/2018|Read about Hibernate |.5|
-|09/05/2018|Completed log4j2 logging activity |.5|
+|09/06/2018|Wireframes cont'd|1|
+|09/06/2018|Week 2 videos|.5|
+|09/06/2018|Lambda Calculus Research for Pro Dev Activity|1.5|
+|09/07/2018|Watched week 2 videos|.5|
+|09/07/2018|Week 2 Activities with log4j |.5|
+|09/08/2018|Week 2 videos |1|
+|09/08/2018|Week 2 reading (jUnit) |2|
+|09/08/2018|Excercise 2 puzzle |1|
+|09/09/2018|Exercise 2 exception testing. How do you test IOException that comes after FileNotFoundException?|2|
