@@ -25,3 +25,4 @@
 |09/08/2018|Week 2 reading (jUnit) |2|
 |09/08/2018|Excercise 2 puzzle |1|
 |09/09/2018|Exercise 2 exception testing. How do you test IOException that comes after FileNotFoundException?|2|
+|09/09/2018|Exercise 2 "mental gymnastics" to get 100% code coverage|2|
