@@ -16,3 +16,11 @@ I have an idea about individual project, however, I feel like it might be a time
 09/05/2018
 
 Paula gave a suggestion to look at notification web services, calendar and zip code radius web services. Good website to look is https://www.programmableweb.com/api/return-zip-codes-inside-radius or amazon web services.
+
+09/09/2018
+Tasks Completed:
+* Finished Exercise 2
+* Finished wireframs
+* Completed all week 2 activities.
+
+What a week! How do you test IOException after InputOutputException to achieve 100% line coverage?
